@@ -59,7 +59,7 @@ theme = "adritian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "contact"]
 
   homepageExperienceCount = 6
 
@@ -71,11 +71,11 @@ theme = "adritian-free-hugo-theme"
       enabled = false
   
   [params.logo]
-    text1 = "Cool"
-    text2 = "Name"
+    text1 = "Justin"
+    text2 = "Breton"
 
   [params.footer]
-      copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+      copyright = "© Justin Breton 2024"
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
